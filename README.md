@@ -9,6 +9,9 @@ I'm a passionate Software Developer from Dhaka, Bangladesh. Completed BSC in CSE
 #### 🔹 Frameworks and Libraries:
 ▪ Laravel ▪ React.js ▪ Bootstrap ▪ Tailwind CSS
 
+#### 🔹 Database:
+▪ MySQL ▪ MongoDB
+
 ### 📞 CONTACT ME:
 - &#128231; ms.shanto1234@gmail.com
 
