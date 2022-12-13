@@ -4,7 +4,7 @@ I'm a passionate Software Developer from Dhaka, Bangladesh. Completed BSC in CSE
 
 ### 💪 TECHNICAL SKILLS:
 #### 🔹 Programming Language:
-▪ C ▪ C++ ▪ Python ▪ JavaScript ▪ PHP ▪ MySQL
+▪ C ▪ C++ ▪ Python ▪ JavaScript ▪ PHP 
 
 #### 🔹 Frameworks and Libraries:
 ▪ Laravel ▪ React.js ▪ Bootstrap ▪ Tailwind CSS
