@@ -28,3 +28,5 @@ My objective is to work throughout the software development, maintenance, inform
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shanto75&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanto75&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=Shanto75&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
