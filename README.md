@@ -7,16 +7,24 @@ My objective is to work throughout the software development, maintenance, inform
 
 ## 🛠 TECHNICAL SKILLS
 ❄**Programming Language**
-
-    ▪ C ▪ C++ ▪ Python ▪ JavaScript ▪ PHP ▪ Solidity
+- C
+- C++
+- Python
+- JavaScript
+- PHP
+- Solidity
 
 ❄**Frameworks & Libraries**
-
-    ▪ Laravel ▪ CodeIgniter ▪ Django ▪ React.js ▪ Bootstrap ▪ Tailwind CSS
+- Laravel
+- CodeIgniter
+- Django
+- React.js
+- Bootstrap
+- Tailwind CSS
 
 ❄**Database**
-
-    ▪ MySQL ▪ MongoDB
+ - MySQL
+ - MongoDB
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-blueviolet?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mzshanto.epizy.com)
