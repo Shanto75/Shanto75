@@ -6,25 +6,10 @@ I'm a passionate **Full Stack Software Developer** from Dhaka, Bangladesh. Compl
 My objective is to work throughout the software development, maintenance, information technology or similar sectors of various public and corporate institutions in Bangladesh or internationally, and to advance rapidly with growing responsibilities.
 
 ## 🛠 TECHNICAL SKILLS
-❄**Programming Language**
-- C
-- C++
-- Python
-- JavaScript
-- PHP
-- Solidity
 
-❄**Frameworks & Libraries**
-- Laravel
-- CodeIgniter
-- Django
-- React.js
-- Bootstrap
-- Tailwind CSS
-
-❄**Database**
- - MySQL
- - MongoDB
+| ❄**Programming Language** | ❄**Frameworks & Libraries** | ❄**Database** |
+| -------- | ------- | ------------- |
+| **`C`** **`C++`** **`Python`** **`JavaScript`** **`PHP`** **`Solidity`**| **`Laravel`** **`CodeIgniter`** **`Django`** **`React.js`** **`Vue.js`** **`Bootstrap`** **`TailwindCSS`**| **`MySQL`** **`MongoDB`** |
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-blueviolet?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mzshanto.epizy.com)
