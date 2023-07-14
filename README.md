@@ -1,15 +1,15 @@
 # Hello There!, I'm Moniruzzaman Shanto! 👋
 
 ## 🚀 ABOUT ME
-I'm a passionate **Full Stack Software Developer** from Dhaka, Bangladesh. Completed **B.Sc. in Computer Science and Engineering** from East West University, Dhaka, Bangladesh. I'm interested in Programing, software development and Graphic designing.
+### I'm a passionate **Full Stack Software Developer** from Dhaka, Bangladesh. Completed **B.Sc. in Computer Science and Engineering** from East West University, Dhaka, Bangladesh. I'm interested in Programming, Software Design, Development, maintenance, and Graphic designing.
 
-My objective is to work throughout the software development, maintenance, information technology or similar sectors of various public and corporate institutions in Bangladesh or internationally, and to advance rapidly with growing responsibilities.
+### My objective is to work throughout the software development, maintenance, information technology, or similar sectors of various public and corporate institutions internationally, and to advance rapidly with growing responsibilities.
 
 ## 🛠 TECHNICAL SKILLS
 
 | ❄**Programming Language** | ❄**Frameworks & Libraries** | ❄**Database** |
 | -------- | ------- | ------------- |
-| **`C`** **`C++`** **`Python`** **`JavaScript`** **`PHP`** **`Solidity`**| **`Laravel`** **`CodeIgniter`** **`Django`** **`React.js`** **`Vue.js`** **`Bootstrap`** **`TailwindCSS`**| **`MySQL`** **`MongoDB`** |
+| **`C`** **`C++`** **`Python`** **`JavaScript`** **`PHP`** **`Solidity`**| **`Laravel`** **`CodeIgniter`** **`Django`** **`inertia.js`** **`React.js`** **`Vue.js`** **`Bootstrap`** **`TailwindCSS`**| **`MySQL`** **`MongoDB`** |
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-blueviolet?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mzshanto.epizy.com)
