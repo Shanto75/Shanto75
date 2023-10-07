@@ -3,9 +3,7 @@
 # Hello There!, I'm Moniruzzaman Shanto! 👋
 
 ## 🚀 ABOUT ME
-### I'm a passionate **Full Stack Software Developer** from Dhaka, Bangladesh. Completed **B.Sc. in Computer Science and Engineering** from East West University, Dhaka, Bangladesh. I'm interested in Programming, Software Design, Development, maintenance, and Graphic designing.
-
-### My objective is to work throughout the software development, maintenance, information technology, or similar sectors of various public and corporate institutions internationally, and to advance rapidly with growing responsibilities.
+**Passionate software engineer with over 1.5+ years of experience working on complex software development, maintenance, deployment, and database management. The objective is to work throughout the software development, maintenance, information technology, or similar sectors of various public and corporate organizations internationally, and to advance rapidly with growing responsibilities and challenges.**
 
 ## 🛠 TECHNICAL SKILLS
 
