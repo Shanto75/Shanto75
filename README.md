@@ -1,4 +1,4 @@
-![github-thumbnail](https://media.licdn.com/dms/image/D5616AQFrmBCnz3gUmA/profile-displaybackgroundimage-shrink_350_1400/0/1694793241837?e=1700092800&v=beta&t=JSmO4x_tl2Qdr7j6y9tuslkb2LaoUNLWgZM2aSIES70)
+![github-thumbnail](https://github.com/Shanto75/Shanto75/blob/main/MD.%20Moniruzzaman%20Shanto.png)
 
 # Hello There!, I'm Moniruzzaman Shanto! 👋
 
