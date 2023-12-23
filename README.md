@@ -6,11 +6,20 @@
 **Passionate software engineer with over 1.5+ years of experience working on complex software development, maintenance, deployment, and database management. The objective is to work throughout the software development, maintenance, information technology, or similar sectors of various public and corporate organizations internationally, and to advance rapidly with growing responsibilities and challenges.**
 
 ## 🛠 TECHNICAL SKILLS
-
-| ❄**Programming Language** | ❄**Frameworks & Libraries** | ❄**Database** |
-| -------- | ------- | ------------- |
-| **`C`** **`C++`** **`Python`** **`JavaScript`** **`PHP`** **`Solidity`**| **`Laravel`** **`CodeIgniter`** **`Django`** **`inertia.js`** **`React.js`** **`Vue.js`** **`Bootstrap`** **`TailwindCSS`**| **`MySQL`** **`MongoDB`** |
- 
+```yaml
+  Languages:
+  - C, C++, Python, JavaScript, PHP, Solidity
+  Frontend:
+  - React.js, Vue.js
+  Styling/Component-library:
+  - Bootstrap, TailwindCSS
+  Backend:
+  - Laravel, Django, CodeIgniter
+  Database:
+  - MySQL, MongoDB
+  CI/CD:
+  - GitHub-Actions
+```
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-blueviolet?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mzshanto.epizy.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzshanto1234)
